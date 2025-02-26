@@ -6,7 +6,6 @@
       💻 Backend Developer at Hurb<br>
       🚀 Interests: Backend Development, AI, and Machine Learning<br>
       🌱 Currently learning: Go and System Design<br>
-      ⚡ Fun fact: I enjoy watching silly cat videos on the internet
     </td>
     <td>
       <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif?cid=790b76116z2adqfvx54r3mc3agvzqjwk2isx4jjp6ui73dvd&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Custom GIF"width="200" height="150">
