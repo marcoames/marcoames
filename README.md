@@ -1,13 +1,11 @@
 # About Me:
 <table>
-  <tr>
     <td>
       🎓 Computer Science Student at PUCRS<br>
       💻 Backend Developer<br>
       🚀 Interests: Backend Development, AI, and Machine Learning<br>
       🌱 Currently learning: Go and System Design<br>
     </td>
-  </tr>
 </table>
 
 ## 🌐 Socials:
